@@ -7,4 +7,4 @@ https://luisbeltran.mx/2018/04/28/cognitive-services-utilizando-el-face-api-en-u
 
 Video donde explico cómo realizar el proyecto desde cero: 
 <br/>
-https://www.youtube.com/watch?v=I6MHLrSIoZw
+https://www.youtube.com/watch?v=WR7-cg58IMI
